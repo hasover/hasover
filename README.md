@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋 My name is Khasan and I am a Java developer.
 
-<!--
-**hasover/hasover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Список проектов на Java:
 
-Here are some ideas to get you started:
+-[Url shortcut](https://github.com/hasover/job4j_url_shortcut) Spring Boot (Web, Data, Security), JWT, REST API, PostgreSQL, Maven, Travis CI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-[Chat](https://github.com/hasover/job4j_chat) Spring Boot (Web, Data, Security), JWT, REST API, PostgreSQL, Maven, Travis CI
+
+-[Forum](https://github.com/hasover/job4j_forum) Spring Boot (Web, Data, Security), JSP, PostgreSQL, Maven, Travis CI
+
+-[Car accident](https://github.com/hasover/job4j_car_accident) Spring (MVC, ORM, JDBC, Data, Security), JSP, PostgreSQL, Maven, Travis CI, TomCat
+
+-[Cars](https://github.com/hasover/job4j_cars) Servlet, Hibernate, PostgreSQL, HTML, BOOTSTRAP, JS, Ajax, Travis CI, Tomcat
+
+-[Todo](https://github.com/hasover/job4j_todo) Servlet, Hibernate, PostgreSQL, HTML, BOOTSTRAP, JS, Ajax, Travis CI, Tomcat
+
+-[Pooh](https://github.com/hasover/job4j_pooh) Java SE, Maven, Curl, Travis CI
+
+-[Grabber](https://github.com/hasover/job4j_grabber) Java SE, PostgreSQL, JDBC, Maven, Travis CI
+
+-[Tracker](https://github.com/hasover/job4j_tracker) Java SE, PostgreSQL, JDBC,Junit, Mockito, Maven, Travis CI
+
+
+
+
+
+
+
+
