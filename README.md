@@ -14,6 +14,8 @@
 
 -[Todo](https://github.com/hasover/job4j_todo) Servlet, Hibernate, PostgreSQL, HTML, BOOTSTRAP, JS, Ajax, Travis CI, Tomcat
 
+-[Cinema](https://github.com/hasover/job4j_cinema) Servlet, JDBC, PostgreSQL,  HTML, BOOTSTRAP, JS, Ajax, Travis CI, Tomcat
+
 -[Pooh](https://github.com/hasover/job4j_pooh) Java SE, Maven, Curl, Travis CI
 
 -[Grabber](https://github.com/hasover/job4j_grabber) Java SE, PostgreSQL, JDBC, Maven, Travis CI
